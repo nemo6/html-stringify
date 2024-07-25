@@ -1,2 +1,2 @@
-# html_stringify
+# html-stringify
 test
